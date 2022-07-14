@@ -5,6 +5,7 @@ var cardListWithOutCL = mutableListOf<CardWithOutCL>()
 class CardWithOutCL(
     var cover: Int,
     var name: String,
+    var tagID: String,
     var id: Int? = cardListWithOutCL.size
 ) {
 

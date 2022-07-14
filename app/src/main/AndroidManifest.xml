@@ -14,16 +14,28 @@
         android:theme="@style/Theme.MaterialComponents.NoActionBar"
         tools:targetApi="31">
         <activity
-            android:name=".MessengerWithCL"
+            android:name=".LayoutWithOutCl.MusicPlayerWithOutCL"
             android:exported="false" />
         <activity
-            android:name=".LoginWithCL"
+            android:name=".LayoutWithOutCl.CalcWithOutCL"
             android:exported="false" />
         <activity
-            android:name=".CalcWithCL"
+            android:name=".LayoutWithOutCl.LoginWithOutCL"
             android:exported="false" />
         <activity
-            android:name=".MusicPlayerWithCL"
+            android:name=".LayoutWithOutCl.MessangerWithOutCL"
+            android:exported="false" />
+        <activity
+            android:name=".LayoutWithCL.MessengerWithCL"
+            android:exported="false" />
+        <activity
+            android:name=".LayoutWithCL.LoginWitchCL"
+            android:exported="false" />
+        <activity
+            android:name=".LayoutWithCL.CalcWithCL"
+            android:exported="false" />
+        <activity
+            android:name=".LayoutWithCL.MusicPlayerWithCL"
             android:exported="false" />
         <activity
             android:name=".MainActivity"

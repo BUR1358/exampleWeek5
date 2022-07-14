@@ -1,12 +1,12 @@
-package com.bur.exampleweek3layout.LayoutWithCL
+package com.bur.exampleweek3layout.LayoutWithOutCl
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.bur.exampleweek3layout.R
 
-class LoginWithCL : AppCompatActivity() {
+class MusicPlayerWithOutCL : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_login_with_cl)
+        setContentView(R.layout.activity_music_player_with_out_cl)
     }
 }

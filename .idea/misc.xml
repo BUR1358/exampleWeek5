@@ -9,7 +9,10 @@
         <entry key="..\:/Android/exampleWeek3layout/app/src/main/res/drawable/main_background.xml" value="0.1695" />
         <entry key="..\:/Android/exampleWeek3layout/app/src/main/res/drawable/message_icon.xml" value="0.2425" />
         <entry key="..\:/Android/exampleWeek3layout/app/src/main/res/drawable/music_icon.xml" value="0.2425" />
+        <entry key="..\:/Android/exampleWeek3layout/app/src/main/res/layout/activity_calc_with_cl.xml" value="0.10989583333333333" />
         <entry key="..\:/Android/exampleWeek3layout/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Android/exampleWeek3layout/app/src/main/res/layout/activity_music_player_with_cl.xml" value="0.25" />
+        <entry key="..\:/Android/exampleWeek3layout/app/src/main/res/layout/activity_music_player_with_cl2.xml" value="0.10989583333333333" />
         <entry key="..\:/Android/exampleWeek3layout/app/src/main/res/layout/card_cell.xml" value="0.264" />
       </map>
     </option>
