@@ -10,5 +10,7 @@
     <color name="darkCardView">#1d1d1d</color>
     <color name="lightCardView">#272727</color>
     <color name="lightIcon">#8e8e8e</color>
+    <color name="MpBackColor">#748b83</color>
+    <color name="btnMPcolor">#b4c5bf</color>
 
 </resources>
