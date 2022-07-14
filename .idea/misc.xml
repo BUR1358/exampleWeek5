@@ -3,8 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android/exampleWeek3layout/app/src/main/res/drawable/arrow_back.xml" value="0.1615" />
         <entry key="..\:/Android/exampleWeek3layout/app/src/main/res/drawable/calc_icon.xml" value="0.2425" />
         <entry key="..\:/Android/exampleWeek3layout/app/src/main/res/drawable/cell_background.xml" value="0.12" />
+        <entry key="..\:/Android/exampleWeek3layout/app/src/main/res/drawable/heart_like.xml" value="0.1615" />
         <entry key="..\:/Android/exampleWeek3layout/app/src/main/res/drawable/login_icon.xml" value="0.2425" />
         <entry key="..\:/Android/exampleWeek3layout/app/src/main/res/drawable/main_background.xml" value="0.1695" />
         <entry key="..\:/Android/exampleWeek3layout/app/src/main/res/drawable/message_icon.xml" value="0.2425" />

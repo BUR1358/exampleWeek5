@@ -5,7 +5,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.recyclerview.widget.GridLayoutManager
 import com.bur.exampleweek3layout.LayoutWithCL.CalcWithCL
-import com.bur.exampleweek3layout.LayoutWithCL.LoginWitchCL
+import com.bur.exampleweek3layout.LayoutWithCL.LoginWithCL
 import com.bur.exampleweek3layout.LayoutWithCL.MessengerWithCL
 import com.bur.exampleweek3layout.LayoutWithCL.MusicPlayerWithCL
 import com.bur.exampleweek3layout.LayoutWithOutCl.CalcWithOutCL
@@ -113,7 +113,7 @@ class MainActivity : AppCompatActivity(), CardClickListenerWithCL, CardClickList
         } else if (cardWithCL.tagID == "Calc") {
             startActivity(Intent(applicationContext, CalcWithCL::class.java))
         } else if (cardWithCL.tagID == "Login") {
-            startActivity(Intent(applicationContext, LoginWitchCL::class.java))
+            startActivity(Intent(applicationContext, LoginWithCL::class.java))
         } else if (cardWithCL.tagID == "Messanger") {
             startActivity(Intent(applicationContext, MessengerWithCL::class.java))
         }

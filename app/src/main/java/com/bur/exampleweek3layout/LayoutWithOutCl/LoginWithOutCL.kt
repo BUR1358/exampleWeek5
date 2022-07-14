@@ -7,6 +7,6 @@ import com.bur.exampleweek3layout.R
 class LoginWithOutCL : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_login_wit_out_cl)
+        setContentView(R.layout.activity_login_with_out_cl)
     }
 }

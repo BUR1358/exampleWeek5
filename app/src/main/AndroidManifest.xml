@@ -29,7 +29,7 @@
             android:name=".LayoutWithCL.MessengerWithCL"
             android:exported="false" />
         <activity
-            android:name=".LayoutWithCL.LoginWitchCL"
+            android:name=".LayoutWithCL.LoginWithCL"
             android:exported="false" />
         <activity
             android:name=".LayoutWithCL.CalcWithCL"
