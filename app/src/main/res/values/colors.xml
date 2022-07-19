@@ -20,4 +20,5 @@
     <color name="greenLight">#6ab40c</color>
     <color name="calcIcons">#5B5B5B</color>
     <color name="lightBack">#f8f8f8</color>
+    <color name="loginBlue">#0077ff</color>
 </resources>
