@@ -9,12 +9,15 @@
     <color name="white">#FFFFFFFF</color>
     <color name="darkCardView">#1d1d1d</color>
     <color name="lightCardView">#272727</color>
+    <color name="gray">#545454</color>
     <color name="lightIcon">#8e8e8e</color>
     <color name="MpBackColor">#748b83</color>
     <color name="btnMPcolor">#b4c5bf</color>
     <color name="lightBlue">#5a8fbb</color>
     <color name="blue">#3c8ab8</color>
     <color name="lightGray">#a9aaac</color>
-    <color name="lightBack">#f0f0f0</color>
-
+    <color name="orange">#aa4d47</color>
+    <color name="greenLight">#6ab40c</color>
+    <color name="calcIcons">#5B5B5B</color>
+    <color name="lightBack">#f8f8f8</color>
 </resources>
