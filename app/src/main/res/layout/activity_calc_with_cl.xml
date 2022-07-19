@@ -33,7 +33,7 @@
         android:layout_width="0dp"
         android:layout_height="0dp"
         android:orientation="horizontal"
-        app:layout_constraintGuide_percent="0.20" />
+        app:layout_constraintGuide_percent="0.30" />
 
     <View
         android:id="@+id/delimiterView1"
@@ -105,7 +105,7 @@
         android:layout_marginTop="30dp"
         android:layout_marginEnd="15dp"
         android:layout_marginBottom="15dp"
-        android:text="845"
+        android:text="123"
         android:textColor="@color/gray"
         android:textSize="26sp"
         app:layout_constraintBottom_toTopOf="@+id/textResult"
@@ -117,7 +117,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="30dp"
         android:layout_marginBottom="15dp"
-        android:text="845"
+        android:text="722"
         android:textColor="@color/gray"
         android:textSize="26sp"
         app:layout_constraintBottom_toTopOf="@+id/textResult"
