@@ -49,11 +49,11 @@
         android:layout_marginEnd="10dp"
         android:alpha="0.8"
         android:src="@drawable/cast"
-        app:layout_constraintEnd_toStartOf="@+id/mpMneu"
+        app:layout_constraintEnd_toStartOf="@+id/mpMenu"
         app:layout_constraintTop_toTopOf="parent" />
 
     <ImageView
-        android:id="@+id/mpMneu"
+        android:id="@+id/mpMenu"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="28dp"
@@ -93,7 +93,7 @@
         android:layout_marginStart="10dp"
         android:layout_marginTop="20dp"
         android:src="@drawable/blink_album3"
-        app:layout_constraintStart_toStartOf="@+id/mpMneu"
+        app:layout_constraintStart_toStartOf="@+id/mpMenu"
         app:layout_constraintTop_toBottomOf="@+id/mpPlaylistName" />
 
 
