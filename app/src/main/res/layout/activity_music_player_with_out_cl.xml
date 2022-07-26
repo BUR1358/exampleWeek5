@@ -94,16 +94,16 @@
     </HorizontalScrollView>
 
     <LinearLayout
-        android:layout_weight="1"
         android:layout_width="match_parent"
         android:layout_height="0dp"
+        android:layout_weight="1"
         android:orientation="vertical"
         android:weightSum="5">
 
         <LinearLayout
-            android:layout_weight="1"
             android:layout_width="match_parent"
             android:layout_height="0dp"
+            android:layout_weight="1"
             android:gravity="center"
             android:orientation="horizontal">
 
@@ -185,9 +185,9 @@
         </RelativeLayout>
 
         <LinearLayout
-            android:layout_weight="3"
             android:layout_width="match_parent"
             android:layout_height="0dp"
+            android:layout_weight="3"
             android:gravity="center"
             android:orientation="horizontal">
 
@@ -228,9 +228,9 @@
         </LinearLayout>
 
         <LinearLayout
-            android:layout_weight="1"
             android:layout_width="match_parent"
             android:layout_height="0dp"
+            android:layout_weight="1"
             android:gravity="center"
             android:orientation="horizontal">
 
