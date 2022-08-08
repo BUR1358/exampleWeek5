@@ -14,10 +14,12 @@
 
 - Идеальной точности не надо, фокус сделайте на размещение элементов относительно друг-друга, отступы, размеры, формы и цвета.
 
-
 Макеты здесь: 
 
 ![photo_2022-05-10 08 00 33](https://user-images.githubusercontent.com/77270310/178911340-c4ef9938-3ec6-4eb8-9d50-ea0d6968b82f.jpeg)
 ![photo_2022-05-10 08 00 37](https://user-images.githubusercontent.com/77270310/178911346-1cc3b9cb-25a7-4470-b618-62ed2694f3d8.jpeg)
 ![photo_2022-05-10 08 00 48](https://user-images.githubusercontent.com/77270310/178911348-3e654bc0-f009-4fd0-af90-d3a539e76954.jpeg)
 ![photo_2022-05-10 08 13 36](https://user-images.githubusercontent.com/77270310/178911353-599a79bd-e005-46df-b734-54400c6acdde.jpeg)
+
+
+![image](https://user-images.githubusercontent.com/77270310/183400666-48105675-4cd9-46de-a7b8-67e617f074c7.png)
