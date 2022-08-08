@@ -33,10 +33,11 @@
 
     <TextView
         android:id="@+id/mpPlaylistName"
-        android:layout_width="wrap_content"
+        android:layout_width="245dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="34dp"
-        android:text="Энергичная музыка. Плейлист punk"
+        android:foreground="@drawable/gradient"
+        android:text="Энергичная музыка. Плейлист pu"
         app:layout_constraintEnd_toStartOf="@+id/mpCast"
         app:layout_constraintStart_toEndOf="@+id/mpBackArrow"
         app:layout_constraintTop_toBottomOf="@+id/mpNowPlay" />
@@ -81,19 +82,19 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
-        android:layout_marginEnd="10dp"
+        android:layout_marginEnd="25dp"
         android:src="@drawable/blink_album1"
-        app:layout_constraintEnd_toEndOf="@+id/mpBackArrow"
+        app:layout_constraintEnd_toStartOf="@+id/mainTrackImage"
         app:layout_constraintTop_toBottomOf="@+id/mpPlaylistName" />
 
     <ImageView
         android:id="@+id/nextTrackImage"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="10dp"
+        android:layout_marginStart="25dp"
         android:layout_marginTop="20dp"
         android:src="@drawable/blink_album3"
-        app:layout_constraintStart_toStartOf="@+id/mpMenu"
+        app:layout_constraintStart_toEndOf="@+id/mainTrackImage"
         app:layout_constraintTop_toBottomOf="@+id/mpPlaylistName" />
 
 
@@ -183,7 +184,7 @@
         android:id="@+id/dislike"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="60dp"
+        android:layout_marginStart="20dp"
         android:layout_marginBottom="35dp"
         android:src="@drawable/heart_dislike"
         app:layout_constraintBottom_toTopOf="@+id/repeat"
@@ -194,8 +195,8 @@
         android:id="@+id/like"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginEnd="60dp"
-        android:layout_marginBottom="35dp"
+        android:layout_marginEnd="30dp"
+        android:layout_marginBottom="20dp"
         android:src="@drawable/heart_like"
         app:layout_constraintBottom_toTopOf="@+id/shufle"
         app:layout_constraintEnd_toEndOf="parent"

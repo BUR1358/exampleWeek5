@@ -21,7 +21,7 @@
             android:src="@drawable/arrow_back" />
 
         <LinearLayout
-            android:layout_width="wrap_content"
+            android:layout_width="245dp"
             android:layout_height="wrap_content"
             android:layout_centerInParent="true"
             android:layout_marginStart="8dp"
@@ -40,7 +40,8 @@
                 android:id="@+id/mpPlaylistName"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Энергичная музыка. Плейлист punk" />
+                android:foreground="@drawable/gradient"
+                android:text="Энергичная музыка. Плейлист pu" />
         </LinearLayout>
 
         <ImageView
@@ -101,6 +102,7 @@
         android:weightSum="5">
 
         <LinearLayout
+            android:layout_marginTop="20dp"
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:layout_weight="1"
@@ -111,7 +113,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_centerInParent="true"
-                android:layout_marginStart="105dp"
+                android:layout_marginStart="85dp"
                 android:gravity="center"
                 android:orientation="vertical">
 
@@ -136,7 +138,7 @@
                 android:id="@+id/shareTrack"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="30dp"
+                android:layout_marginStart="15dp"
                 android:alpha="0.8"
                 android:src="@drawable/share" />
 
@@ -144,7 +146,7 @@
                 android:id="@+id/menuTarck"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="30dp"
+                android:layout_marginStart="18dp"
                 android:alpha="0.8"
                 android:src="@drawable/more_vert" />
         </LinearLayout>

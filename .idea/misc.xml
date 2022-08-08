@@ -17,6 +17,7 @@
         <entry key="..\:/Android Studio Projects/exampleWeek3layout/app/src/main/res/drawable/device.xml" value="0.3635" />
         <entry key="..\:/Android Studio Projects/exampleWeek3layout/app/src/main/res/drawable/equalizer.xml" value="0.3635" />
         <entry key="..\:/Android Studio Projects/exampleWeek3layout/app/src/main/res/drawable/folder.xml" value="0.3635" />
+        <entry key="..\:/Android Studio Projects/exampleWeek3layout/app/src/main/res/drawable/gradient.xml" value="0.3605" />
         <entry key="..\:/Android Studio Projects/exampleWeek3layout/app/src/main/res/drawable/heart_dislike.xml" value="0.3635" />
         <entry key="..\:/Android Studio Projects/exampleWeek3layout/app/src/main/res/drawable/heart_like.xml" value="0.3635" />
         <entry key="..\:/Android Studio Projects/exampleWeek3layout/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3635" />
@@ -40,11 +41,14 @@
         <entry key="..\:/Android Studio Projects/exampleWeek3layout/app/src/main/res/drawable/shuffle.xml" value="0.3635" />
         <entry key="..\:/Android Studio Projects/exampleWeek3layout/app/src/main/res/drawable/timer.xml" value="0.3635" />
         <entry key="..\:/Android Studio Projects/exampleWeek3layout/app/src/main/res/layout/activity_calc_with_cl.xml" value="0.242520398912058" />
-        <entry key="..\:/Android Studio Projects/exampleWeek3layout/app/src/main/res/layout/activity_calc_with_out_cl.xml" value="0.18125" />
+        <entry key="..\:/Android Studio Projects/exampleWeek3layout/app/src/main/res/layout/activity_calc_with_out_cl.xml" value="0.2" />
         <entry key="..\:/Android Studio Projects/exampleWeek3layout/app/src/main/res/layout/activity_login_with_cl.xml" value="0.3029891304347826" />
+        <entry key="..\:/Android Studio Projects/exampleWeek3layout/app/src/main/res/layout/activity_login_with_out_cl.xml" value="0.3625" />
         <entry key="..\:/Android Studio Projects/exampleWeek3layout/app/src/main/res/layout/activity_main.xml" value="0.3442028985507246" />
-        <entry key="..\:/Android Studio Projects/exampleWeek3layout/app/src/main/res/layout/activity_messenger_with_cl.xml" value="0.5" />
-        <entry key="..\:/Android Studio Projects/exampleWeek3layout/app/src/main/res/layout/activity_music_player_with_cl.xml" value="0.2975630611372381" />
+        <entry key="..\:/Android Studio Projects/exampleWeek3layout/app/src/main/res/layout/activity_messanger_with_out_cl.xml" value="0.33" />
+        <entry key="..\:/Android Studio Projects/exampleWeek3layout/app/src/main/res/layout/activity_messenger_with_cl.xml" value="0.33" />
+        <entry key="..\:/Android Studio Projects/exampleWeek3layout/app/src/main/res/layout/activity_music_player_with_cl.xml" value="0.33" />
+        <entry key="..\:/Android Studio Projects/exampleWeek3layout/app/src/main/res/layout/activity_music_player_with_out_cl.xml" value="0.3625" />
         <entry key="..\:/Android Studio Projects/exampleWeek3layout/app/src/main/res/layout/card_cell.xml" value="0.3442028985507246" />
         <entry key="..\:/Android/exampleWeek3layout/app/src/main/res/drawable/arrow_back.xml" value="0.1615" />
         <entry key="..\:/Android/exampleWeek3layout/app/src/main/res/drawable/avatar.xml" value="0.1" />
