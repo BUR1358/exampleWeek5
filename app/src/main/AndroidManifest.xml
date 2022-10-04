@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.bur.exampleweek3layout">
+    package="com.bur.exampleweek5">
 
     <application
         android:allowBackup="true"
@@ -14,31 +14,16 @@
         android:theme="@style/Theme.MaterialComponents.NoActionBar"
         tools:targetApi="31">
         <activity
-            android:name=".LayoutWithOutCl.MusicPlayerWithOutCL"
+            android:name=".apps.app3Tinder"
             android:exported="false" />
         <activity
-            android:name=".LayoutWithOutCl.CalcWithOutCL"
+            android:name=".apps.app2Dota2"
             android:exported="false" />
         <activity
-            android:name=".LayoutWithOutCl.LoginWithOutCL"
+            android:name=".apps.app1Dota2"
             android:exported="false" />
         <activity
-            android:name=".LayoutWithOutCl.MessangerWithOutCL"
-            android:exported="false" />
-        <activity
-            android:name=".LayoutWithCL.MessengerWithCL"
-            android:exported="false" />
-        <activity
-            android:name=".LayoutWithCL.LoginWithCL"
-            android:exported="false" />
-        <activity
-            android:name=".LayoutWithCL.CalcWithCL"
-            android:exported="false" />
-        <activity
-            android:name=".LayoutWithCL.MusicPlayerWithCL"
-            android:exported="false" />
-        <activity
-            android:name=".MainActivity"
+            android:name="com.bur.exampleweek5.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

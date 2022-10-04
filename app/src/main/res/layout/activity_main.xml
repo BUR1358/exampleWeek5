@@ -8,7 +8,7 @@
     android:orientation="vertical"
     android:weightSum="2"
     tools:context=".MainActivity"
-    android:background="@drawable/main_background">
+    android:background="@android:color/background_dark">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -22,41 +22,17 @@
             android:layout_height="wrap_content"
             android:fontFamily="sans-serif-condensed-medium"
             android:gravity="center"
-            android:text="C ИСПОЛЬЗОВАНИЕМ CONSTRAINT LAYOUT"
+            android:text="Выбор приложения:"
             android:textSize="18sp"
             android:layout_marginBottom="5dp"/>
 
         <androidx.recyclerview.widget.RecyclerView
-            android:id="@+id/recyclerViewWithConstraintLayout"
+            android:id="@+id/recyclerView"
             android:layout_width="match_parent"
-            android:layout_height="match_parent">
+            android:layout_height="match_parent"
+            tools:listitem="@layout/card_cell">
 
         </androidx.recyclerview.widget.RecyclerView>
     </LinearLayout>
-
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="0dp"
-        android:layout_weight="1"
-        android:orientation="vertical"
-        android:padding="10dp">
-
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:fontFamily="sans-serif-condensed-medium"
-            android:gravity="center"
-            android:text="БЕЗ ИСПОЛЬЗОВАНИЯ CONSTRAINT LAYOUT"
-            android:textSize="18sp"
-            android:layout_marginBottom="5dp"/>
-
-        <androidx.recyclerview.widget.RecyclerView
-            android:id="@+id/recyclerViewWithOutConstraintLayout"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent">
-
-        </androidx.recyclerview.widget.RecyclerView>
-    </LinearLayout>
-
 
 </LinearLayout>

@@ -67,6 +67,8 @@
         <entry key="..\:/Android/exampleWeek3layout/app/src/main/res/layout/activity_music_player_with_cl2.xml" value="0.10989583333333333" />
         <entry key="..\:/Android/exampleWeek3layout/app/src/main/res/layout/activity_music_player_with_out_cl.xml" value="0.16216216216216217" />
         <entry key="..\:/Android/exampleWeek3layout/app/src/main/res/layout/card_cell.xml" value="0.264" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1793478260869565" />
+        <entry key="app/src/main/res/layout/card_cell.xml" value="0.3182291666666667" />
       </map>
     </option>
   </component>
